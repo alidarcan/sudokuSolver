@@ -1,13 +1,12 @@
 import "./App.css";
-import Table from "./components/table";
+// import Table from "./components/table";
+import SudokuSolver from "./components/sudoku";
 
 function App() {
   return (
     <main>
       <div>
-        <h1>Sudoku Solver</h1>
-        <p>Hello There</p>
-        <Table/>
+        <SudokuSolver/>
       </div>
     </main>
   );
