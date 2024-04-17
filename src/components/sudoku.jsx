@@ -67,7 +67,7 @@ function SudokuSolver() {
   }
 
   function usedInRow(grid, row, num){
-    
+    //
   }
 }
 export default SudokuSolver;
