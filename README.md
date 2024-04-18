@@ -1,8 +1,25 @@
-# React + Vite
+# Sudoku Solver
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
 
-Currently, two official plugins are available:
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Licence](#licence)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About <a name = "about"></a>
+
+This react app generates solution to sudoku puzzles. You can change the values and solve your puzzle.
+
+## Getting Started <a name = "getting_started"></a>
+
+Easy to install:
+
+```
+npm i 
+npm run dev
+```
+
+
+## Licence <a name = "licence"></a>
+
+[MIT](https://choosealicense.com/licenses/mit/)
