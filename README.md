@@ -16,7 +16,7 @@ This react app generates solution to sudoku puzzles. You can change the values a
 Easy to install:
 
 ```
-npm i 
+npm install 
 npm run dev
 ```
 
